@@ -23,7 +23,7 @@ Wave Panel is an open-source game server management panel, designed to simplify 
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/wave-panel.git
+   git clone https://github.com/Royallars/Wavepanel.git
    cd wave-panel --still in work 
 Install Dependencies: Run the following command to install PHP dependencies:
 
